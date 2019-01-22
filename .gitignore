@@ -1,0 +1,10 @@
+*.npy
+*.pyc
+*Epoch*
+*.txt
+*.sh
+*.out
+*.png
+*.jpg
+*_record
+*.xml
